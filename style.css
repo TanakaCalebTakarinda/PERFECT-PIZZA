@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(0, 162, 255);
+}
+.Medium{
+    background-color: rgb(18, 245, 18);
+}
+.Large{
+    background-color: rgb(248, 120, 216);
+}
+.Small{
+    background-color: blueviolet;
+}
+.contact {
+    background-color: rgb(182, 230, 10);
+}
