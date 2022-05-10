@@ -4,11 +4,11 @@ body {
 }
 
 .box{
-    border: 1.5px solid rgb(202, 202, 202);
+    border: 2px solid rgb(202, 202, 202);
     padding: 1 em;
     margin: 1em;
     margin-bottom: 0.5em;
-    border-radius: 0.5em;
+    border-radius: 1em;
     
 }
 .Medium {
